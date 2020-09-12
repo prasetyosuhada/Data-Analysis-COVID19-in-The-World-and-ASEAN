@@ -1,4 +1,4 @@
-# Data-Analysis-COVID19-in-The-World-and-ASEAN
+# Data Analysis of COVID19 in the World & ASEAN
 
 Covid19 adalah pandemi yang sudah mewabah ke seluruh dunia. Sebagian besar negara-negara di dunia sudah terjangkit. Penanganan tiap-tiap negara pun berbeda, sesuai dengan kebijakan pemerintah. Hal ini mengakibatkan perbedaan trend kenaikan atau penurunan kasus covid berbeda-beda tiap negara.
 
